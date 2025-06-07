@@ -1,0 +1,162 @@
+fileFormatVersion: 2
+guid: 8b61b2a24a770dd4c800f11410d239be
+timeCreated: 1501167778
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: Dummy001
+    100002: Dummy002
+    100004: Dummy003
+    100006: Dummy004
+    100008: Dummy005
+    100010: Dummy006
+    100012: Dummy007
+    100014: Dummy008
+    100016: Dummy009
+    100018: flanec2_KNS001
+    100020: flanec2_KNS002
+    100022: //RootNode
+    100024: KlapanKNS
+    100026: Shape001
+    100028: Shape002
+    100030: SOST 402
+    100032: SOST403
+    100034: SOST404
+    100036: ZadvizkaKNS
+    100038: podBolt
+    100040: Bolt_short
+    100042: KranLow
+    100044: ZadvizhkaKranLow
+    400000: Dummy001
+    400002: Dummy002
+    400004: Dummy003
+    400006: Dummy004
+    400008: Dummy005
+    400010: Dummy006
+    400012: Dummy007
+    400014: Dummy008
+    400016: Dummy009
+    400018: flanec2_KNS001
+    400020: flanec2_KNS002
+    400022: //RootNode
+    400024: KlapanKNS
+    400026: Shape001
+    400028: Shape002
+    400030: SOST 402
+    400032: SOST403
+    400034: SOST404
+    400036: ZadvizkaKNS
+    400038: podBolt
+    400040: Bolt_short
+    400042: KranLow
+    400044: ZadvizhkaKranLow
+    2300000: flanec2_KNS001
+    2300002: flanec2_KNS002
+    2300004: KlapanKNS
+    2300006: Shape001
+    2300008: Shape002
+    2300010: SOST 402
+    2300012: SOST403
+    2300014: SOST404
+    2300016: ZadvizkaKNS
+    2300018: podBolt
+    2300020: Bolt_short
+    2300022: KranLow
+    2300024: ZadvizhkaKranLow
+    3300000: flanec2_KNS001
+    3300002: flanec2_KNS002
+    3300004: KlapanKNS
+    3300006: Shape001
+    3300008: Shape002
+    3300010: SOST 402
+    3300012: SOST403
+    3300014: SOST404
+    3300016: ZadvizkaKNS
+    3300018: podBolt
+    3300020: Bolt_short
+    3300022: KranLow
+    3300024: ZadvizhkaKranLow
+    4300000: ZadvizkaKNS
+    4300002: KlapanKNS
+    4300004: flanec2_KNS001
+    4300006: SOST 402
+    4300008: Shape001
+    4300010: flanec2_KNS002
+    4300012: Shape002
+    4300014: SOST403
+    4300016: SOST404
+    4300018: podBolt
+    4300020: Bolt_short
+    4300022: KranLow
+    4300024: ZadvizhkaKranLow
+  materials:
+    importMaterials: 0
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 0.01
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 1
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 0
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
