@@ -3,7 +3,7 @@
 public class GameManager : MonoBehaviour {
 
 	[SerializeField] private CameraController _cameraController;
-    [SerializeField] private Transform _cameraTarget; // Объект вокруг которого вращается камера
+    [SerializeField] private Transform _cameraTarget;
     
     private void Awake() 
     {
