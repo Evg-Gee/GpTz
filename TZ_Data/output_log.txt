@@ -1,0 +1,34 @@
+Initialize engine version: 5.6.2f1 (a2913c821e27)
+GfxDevice: creating device client; threaded=1
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 4050 Laptop GPU (ID=0x28a1)
+    Vendor:   NVIDIA
+    VRAM:     3072 MB
+    Driver:   32.0.15.7640
+Begin MonoManager ReloadAssembly
+Platform assembly: C:\UnityProjects\GP TZ\GpTz\TZ_Data\Managed\UnityEngine.dll (this message is harmless)
+Loading C:\UnityProjects\GP TZ\GpTz\TZ_Data\Managed\UnityEngine.dll into Unity Child Domain
+Platform assembly: C:\UnityProjects\GP TZ\GpTz\TZ_Data\Managed\Assembly-CSharp.dll (this message is harmless)
+Loading C:\UnityProjects\GP TZ\GpTz\TZ_Data\Managed\Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: C:\UnityProjects\GP TZ\GpTz\TZ_Data\Managed\UnityEngine.UI.dll (this message is harmless)
+Loading C:\UnityProjects\GP TZ\GpTz\TZ_Data\Managed\UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: C:\UnityProjects\GP TZ\GpTz\TZ_Data\Managed\UnityEngine.Networking.dll (this message is harmless)
+Loading C:\UnityProjects\GP TZ\GpTz\TZ_Data\Managed\UnityEngine.Networking.dll into Unity Child Domain
+- Completed reload, in  0.013 seconds
+Platform assembly: C:\UnityProjects\GP TZ\GpTz\TZ_Data\Managed\System.Core.dll (this message is harmless)
+Platform assembly: C:\UnityProjects\GP TZ\GpTz\TZ_Data\Managed\System.dll (this message is harmless)
+desktop: 1920x1080 165Hz; virtual: 1920x2160 at 0,-1080
+<RI> Initializing input.
+<RI> Input initialized.
+<RI> Initialized touch support.
+UnloadTime: 0.582800 ms
+Setting up 8 worker threads for Enlighten.
+  Thread -> id: 76f0 -> priority: 1 
+  Thread -> id: 63a0 -> priority: 1 
+  Thread -> id: 6bbc -> priority: 1 
+  Thread -> id: 6b48 -> priority: 1 
+  Thread -> id: 37f8 -> priority: 1 
+  Thread -> id: 2e90 -> priority: 1 
+  Thread -> id: 2cdc -> priority: 1 
+  Thread -> id: 627c -> priority: 1 

@@ -1,1 +1,0 @@
-public enum ToolType { None, Wrench, Valve, Lid }
